@@ -12,7 +12,7 @@ class LandingContent extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           const Text(
-            "Find local community events",
+            "Workpoint",
             style: TextStyle(
               fontWeight: FontWeight.bold,
               fontSize: 42,
@@ -22,7 +22,7 @@ class LandingContent extends StatelessWidget {
             height: 16,
           ),
           Text(
-            "Get involved with what's happening near you.",
+            "Workpoint Entertainment",
             style: TextStyle(fontSize: 24, color: Colors.blueGrey.shade300),
           )
         ],

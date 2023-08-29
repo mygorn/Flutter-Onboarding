@@ -12,7 +12,7 @@ class SignUpForm extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const Text(
-              "Create an account",
+              "Login",
               style: TextStyle(
                 fontWeight: FontWeight.bold,
                 fontSize: 26,
@@ -30,7 +30,7 @@ class SignUpForm extends StatelessWidget {
             ),
             const SizedBox(height: 200),
             Text(
-              "Already have an account? Sign in.",
+              "พบปัญหาการใช้งานติดต่อฝ่าย IT",
               style: TextStyle(fontSize: 16, color: Colors.blueGrey.shade300),
             )
           ],

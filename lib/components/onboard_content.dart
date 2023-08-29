@@ -91,7 +91,7 @@ class _OnboardContentState extends State<OnboardContent> {
                             Opacity(
                               opacity: progress,
                               child: const Text(
-                                "Create account",
+                                "SUBMIT",
                                 maxLines: 1,
                                 overflow: TextOverflow.fade,
                                 softWrap: false,
